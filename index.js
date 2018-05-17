@@ -1,1 +1,1 @@
-function happyHoliays 
+function happyHoliays(string)
