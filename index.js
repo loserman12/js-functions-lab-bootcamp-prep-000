@@ -1,4 +1,4 @@
-function say{
+function happyHolidays 
  return string`Happy holidays!`
 }
 
