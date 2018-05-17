@@ -1,2 +1,2 @@
-function happyHoliays
+function happyHoliays()
 }
